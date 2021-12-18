@@ -1,0 +1,30 @@
+{
+  "name": "typescript-tdd-template",
+  "version": "1.0.0",
+  "description": "Typescript Test Driven Development Template with Jest",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eQuid96/typescript-tdd-template.git"
+  },
+  "keywords": [
+    "typescript",
+    "tdd"
+  ],
+  "author": "eQuid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eQuid96/typescript-tdd-template/issues"
+  },
+  "homepage": "https://github.com/eQuid96/typescript-tdd-template#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "typescript": "^4.5.4"
+  }
+}
